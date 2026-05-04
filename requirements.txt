@@ -1,0 +1,10 @@
+streamlit==1.12.0
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.2
+matplotlib==3.7.1
+seaborn==0.12.2
+ucimlrepo==0.0.3
+xgboost==1.7.6
+altair==4.2.2
+protobuf==3.20.3
